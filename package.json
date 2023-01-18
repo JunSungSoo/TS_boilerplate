@@ -24,6 +24,7 @@
     "storybook": "start-storybook -p 6006 -s public",
     "sb": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public"
+    "sb-build": "build-storybook -s public"
   },
   "eslintConfig": {
     "extends": [
